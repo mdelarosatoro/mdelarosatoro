@@ -6,8 +6,8 @@
 
 
 [![Mdelarosatoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdelarosatoro)](https://github.com/mdelarosatoro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdelarosatoro&layout=compact)](https://github.com/mdelarosatoro/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdelarosatoro)](https://github.com/mdelarosatoro/github-readme-stats)
 
 <!--
 **mdelarosatoro/mdelarosatoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
