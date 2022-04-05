@@ -3,9 +3,16 @@
 ## Some background information about myself
 - ⚡ I'm an Industrial Engineer and I'm learning everything I can about programming.
 - 👯 I’m looking to collaborate on cool projects!
+- 🏄 Surfing is my favorite sport
+- 🎵 I love music, and I play the guitar
 
 ## 📫 How to reach me
-
+<a href="https://www.linkedin.com/in/max-de-la-rosa-toro/">
+ ![image](![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white))
+</a>
+<a href="mailto:mdelarosatoroag@gmail.com">
+ ![image](![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</a>
 
 ## My Frontend Stack
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
