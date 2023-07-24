@@ -54,5 +54,5 @@
 ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 ## My Github Stats
-[![Mdelarosatoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdelarosatoro)](https://github.com/mdelarosatoro/github-readme-stats)
+[![Mdelarosatoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdelarosatoro&include_all_commits=true)](https://github.com/mdelarosatoro/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdelarosatoro&layout=compact)](https://github.com/mdelarosatoro/github-readme-stats)
